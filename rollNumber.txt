@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Roll number is 25.
 Roll number is 65.
 Roll number is 14.
-=======
-Roll number is 25.
->>>>>>> parent of 6a1f493 (added roll number 65)
